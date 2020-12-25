@@ -1,0 +1,55 @@
+[33mcommit 62cf68f76e52f8c4165b3b3dd1ea5f922bfb25ae[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ozomatli98k <ozomatli9@yahoo.com.mx>
+Date:   Fri Dec 25 17:25:35 2020 -0600
+
+    Commit al master del blogpost en su versión más reciente
+
+ blogpost.html   |  8 [32m++++++[m[31m--[m
+ css/estilos.css | 19 [32m+++++++++++++++++[m[31m--[m
+ 2 files changed, 23 insertions(+), 4 deletions(-)
+
+[33mcommit f2427bc968e3ce364b1c39f5931fea7d8ab45e4b[m
+Author: Ozomatli98k <ozomatli9@yahoo.com.mx>
+Date:   Thu Dec 24 18:49:51 2020 -0600
+
+    Añadiendo su vida laboral
+
+ Historia_audel.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 8e2e8af76ac94c32120d41f0a9d83232c4403ec6[m
+Author: Ozomatli98k <ozomatli9@yahoo.com.mx>
+Date:   Thu Dec 24 18:42:26 2020 -0600
+
+    Vida y Obra
+
+ Historia_audel.txt | 5 [32m+++[m[31m--[m
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+[33mcommit 62af3978f35964b3adf355a2b6692ef783290949[m
+Author: Ozomatli98k <ozomatli9@yahoo.com.mx>
+Date:   Thu Dec 24 18:39:11 2020 -0600
+
+    arranco mi proyecto real con html y css
+
+ blogpost.html   | 10 [32m++++++++++[m
+ css/estilos.css |  7 [32m+++++++[m
+ 2 files changed, 17 insertions(+)
+
+[33mcommit 2ed93fc0be5533a701ab8884646c7300dd6f273e[m
+Author: Ozomatli98k <ozomatli9@yahoo.com.mx>
+Date:   Thu Dec 24 16:26:44 2020 -0600
+
+    Este es el primer cambio
+
+ Historia_audel.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit f6af66df00778d4a14a94340ec01f47f7f482e03[m
+Author: Ozomatli98k <ozomatli9@yahoo.com.mx>
+Date:   Thu Dec 24 16:22:02 2020 -0600
+
+    Este es el primer commit de este archivo
+
+ Historia_audel.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
